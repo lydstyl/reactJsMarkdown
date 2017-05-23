@@ -1,0 +1,2 @@
+npm install puis
+npm start pour démarrer le serveur port 3000
